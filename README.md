@@ -4,6 +4,8 @@ Kinet is a lightweight reactivity engine for javascript. It is designed to be us
 
 Kinet uses a modular approach, which means that you can use only the parts you need.
 
+# Kinet is still in development and not ready for production use
+
 ## Installation
 
 ```bash
